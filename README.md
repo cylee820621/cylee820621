@@ -28,7 +28,4 @@
 <br />
 <br />
 
----
-
-[website]: Not finished
 [linkedin]: https://www.linkedin.com/in/chih-yu-lee/
