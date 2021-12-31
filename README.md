@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning everything
 - 🌇 2022 Goals: Build a product which helps over 100,000 people
-- 🍎 My first self-made flutter mobile-app [project]
+- 🍎 The project I'm most proud of, flutter mobile-app [project]
 
 ### Connect with me:
 
