@@ -1,6 +1,6 @@
 ### Hi there, I'm Chih Yu Lee, you can call me CY
 
-## I'm a Junior Developer and Entrepreneur 🧑‍💻
+## I'm a Junior Developer 🧑‍💻
 
 - 🌱 I'm currently learning everything
 - 🌇 2022 Goals: Build a product which helps over 100,000 people
