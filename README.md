@@ -4,6 +4,7 @@
 - 🌱 I'm currently learning everything
 - 🌇 2022 Goals: Build a product which helps over 100,000 people
 - 🍎 The project I'm most proud of, flutter mobile-app [project]
+- my next.js portfolio [portfolio]
 
 ### Connect with me:
 
@@ -33,3 +34,4 @@
 
 [linkedin]: https://www.linkedin.com/in/chih-yu-lee/
 [project]: https://github.com/cylee820621/getphoto-flutter-app
+[portfolio]: https://portfolio-lyart-nu.vercel.app/
